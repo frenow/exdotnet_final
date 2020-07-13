@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\freno\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\freno\\.nuget\\packages"
+    ]
+  }
+}
